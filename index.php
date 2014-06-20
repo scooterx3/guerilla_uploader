@@ -48,7 +48,7 @@ goBabyGo();
 
 }else{
 	?>
-		<form enctype="multipart/form-data" action="guerilla_uploader.php" method="POST">
+		<form enctype="multipart/form-data" action="index.php" method="POST">
 		<input type="hidden" name="guerilla_uploader" />
 		Choose a file to upload: <input name="uploadedfile[]" type="file" multiple='multiple' /><br />
 		<input type="submit" value="Upload File" />
