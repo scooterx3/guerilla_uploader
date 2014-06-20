@@ -1,4 +1,5 @@
-.htaccess
+guerilla_uploader
+.htaccess*
 files
 error_log
-php.ini
+php.ini*
