@@ -1,6 +1,6 @@
 #!/bin/bash
 
-destination='g_up'
+destination='g-up'
 
 mkdir $destination 
 
