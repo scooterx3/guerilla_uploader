@@ -1,6 +1,6 @@
 #!/bin/bash
 
-destination = 'guerilla_uploader';
+destination='guerilla_uploader'
 
 mkdir $destination 
 
