@@ -1,7 +1,10 @@
 #!/bin/bash
 
-mkdir guerilla_uploader && cd guerilla_uploader
+mkdir guerilla_uploader 
+cd guerilla_uploader
+
 wget https://raw.githubusercontent.com/scooterx3/guerilla_uploader/master/guerilla_uploader.php
+
 echo "
 post_max_size = 10M;
 max_execution_time = 3600;
