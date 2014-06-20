@@ -1,6 +1,6 @@
 #!/bin/bash
 
-destination='guerilla_uploader'
+destination='g_up'
 
 mkdir $destination 
 
